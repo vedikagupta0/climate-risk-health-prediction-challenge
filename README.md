@@ -5,7 +5,7 @@ climate-sensitive category, using demographic, geographic, and climate data.
 Built for a Zindi competition; scored on a 0.6×F1 + 0.4×ROC-AUC blend.
 
 **Best leaderboard score: 0.84562**
-
+**currently ranked 45/1070**
 ## Progression
 
 | Notebook | What changed | Score |
